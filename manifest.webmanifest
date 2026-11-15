@@ -1,0 +1,14 @@
+{
+  "name": "diuvintage 库存",
+  "short_name": "diu库存",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4EEE1",
+  "theme_color": "#F4EEE1",
+  "icons": [
+    { "src": "icons/icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
